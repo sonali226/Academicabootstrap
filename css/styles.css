@@ -11,7 +11,9 @@
 /*----------------------------------
     NavBar
    -------------------------------*/
-
+   .nav-link{
+     font-family: sans-serif;
+   }
    .form-inline,.form-control{
      padding-top: 10px;
      padding-left:2px;
@@ -30,6 +32,9 @@
      display:list-item;
      position: relative;
    } 
+   .paratext{
+font-family: sans-serif;
+   }
 /*-----------------------------------
 Misc
 ---------------------------------*/
